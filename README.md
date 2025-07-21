@@ -33,7 +33,7 @@ This Power BI dashboard visualizes business performance using real sales data fr
 
 ## 🖼 Screenshot
 
-![Dashboard Preview](screenshots/dashboard_preview.png)
+![Dashboard Preview](screenshots/dashboard-preview.png)
 
 ---
 
